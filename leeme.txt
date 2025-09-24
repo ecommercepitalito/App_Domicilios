@@ -1,1 +1,2 @@
 cuales son los requerimientos para una app de domicilios.
+tenemos un administrador, tenemos clientes, tenemos domiciliarios, tenemos negocios
